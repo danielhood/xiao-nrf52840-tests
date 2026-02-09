@@ -1,7 +1,7 @@
 /*
- * Blink
- * Turns on an LED on for one second,
- * then off for one second, repeatedly.
+ * gpio-test
+ * Simple test for onboard LEDs as well as LEDs on GPIO ports. 
+ * Log messagess over UART serial are also tested. 
  */
 
 #include <Arduino.h>
